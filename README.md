@@ -10,7 +10,7 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "Python 📌"
-        self.currently_working_on = "BloxHub & Winlator Crast 🌱"
+        self.currently_working_on = "BloxHub & Winlator Edge 🌱"
     
     def contact_me(self):
         self.ds-user = "axtyaxter"
@@ -23,7 +23,7 @@ if '__repo__' == '__helpful__':
 ![header](https://github.com/user-attachments/assets/fb40d64f-3d60-41b6-a6b0-4b6b682db93d)
 ----
 # Contact me
-- **📬 Discord:** axtyaxted
+- **📬 Discord:** axtyaxter
 ----
 # Languages
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
