@@ -6,8 +6,7 @@ from life import Creativity
 
 class Life(Creativity):
     def __init_life__(self):
-        self.current_job_title = "___"
-        self.open_for_opportunity = True
+        self.current_passion = "Create Projects"
 
     def current_projects(self):
         self.currently_learning = "Python 📌"
