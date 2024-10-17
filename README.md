@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Axter!</h1>
+<h3 align="center">An Italian 16 year old who creates various projects;</h3>
 
-<!--
-**axterv2/axterv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+from life import Creativity
 
-Here are some ideas to get you started:
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = True
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def current_projects(self):
+        self.currently_learning = "Python 📌"
+        self.currently_working_on = "BloxHub & Winlator Crast 🌱"
+    
+    def contact_me(self):
+        self.ds-user = ".youngaos_"
+
+if '__repo__' == '__helpful__':
+    star.it()
+
+```
+----
+![header](https://github.com/user-attachments/assets/fb40d64f-3d60-41b6-a6b0-4b6b682db93d)
+----
+# Contact me
+- **📬 Discord:** axtyaxted
+----
+# Languages
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
