@@ -10,7 +10,7 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "Python 📌"
-        self.currently_working_on = "BloxHub & Axter's Workshop 🌱"
+        self.currently_working_on = "BloxHub 🌱"
     
     def contact_me(self):
         self.ds-user = "axtyaxter"
