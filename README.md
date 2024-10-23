@@ -10,7 +10,7 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "Python 📌"
-        self.currently_working_on = "BloxHub 🌱"
+        self.currently_working_on = "BloxHub & Uzuy Remastered 🌱"
     
     def contact_me(self):
         self.ds-user = "axtyaxter"
@@ -19,8 +19,6 @@ if '__repo__' == '__helpful__':
     star.it()
 
 ```
-----
-![header](https://github.com/user-attachments/assets/fb40d64f-3d60-41b6-a6b0-4b6b682db93d)
 ----
 # Contact me
 - **📬 Discord:** axtyaxter
